@@ -1,0 +1,4 @@
+1.crear el entrono virtual: python -m virtualenv nombre
+2.activar el entorno virtual ./nombre/Scripts/activate
+3.pip list(3 paquetes)
+4.pip install -r "./requirements.txt/"
